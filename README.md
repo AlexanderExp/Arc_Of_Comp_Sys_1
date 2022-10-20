@@ -3,7 +3,7 @@
 # 4 балла:
 ### 1. Приведено решение задачи на C: <br/>
 > * [main.c](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/main.c) <br/>
-> * [task.c] <br/>
+> * [task.c](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/task.c) <br/>
 
 ### 2. Немодифицированная ассемблерная программа с комментариями: <br/>
 > * [Список переменных]
