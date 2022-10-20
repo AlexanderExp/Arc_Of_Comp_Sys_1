@@ -7,7 +7,7 @@
 
 ### 2. Немодифицированная ассемблерная программа с комментариями: <br/>
 > * [Список переменных]
-> * [main.s] <br/>
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler/main.s) <br/>
 > * [task.s] <br/>
 > * [print.s] <br/>
 
