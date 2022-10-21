@@ -20,9 +20,8 @@
 ---- 
 # 5 баллов:
 ### 1. Решение на C с передачей данных через параметры + локальные переменные: <br/>
-> * [main.c] <br/>
-> * [task.c] <br/>
-> * [print.c] <br/>
+> * [main_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/main.s) <br/>
+> * [task_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s) <br/>
 
 ### 2. Ассемблерная программа с комментариями описывающие передачу параметров и перенос результата +  комментарии, описывающие связь между параметрами языка Си и регистрами (стеком): <br/>
 > * [Список переменных]
