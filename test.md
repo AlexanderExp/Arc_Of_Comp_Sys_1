@@ -35,9 +35,9 @@
  
 2. Тест 2 - Random <br/>
  > * Без использования регистров вместо переменных: <br/>
- > <img width="500" alt="Assembler_no_mod_test_Random" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_no_mod_test_Random.png"> <br/>
+ > <img width="500" alt="Assembler_test_no_registers_Random" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_test_no_registers_Random.png"> <br/>
  > * С использованием регистров вместо переменных: <br/>
- > <img width="500" alt="Assembler_mod_test_Random" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_Random.png"> <br/>
+ > <img width="500" alt="Assembler_test_Random_registers" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_test_Random_registers.png"> <br/>
 
 3. Тест 3 - File <br/>
  > * Без использования регистров вместо переменных: <br/>
