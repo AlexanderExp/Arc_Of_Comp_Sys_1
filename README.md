@@ -12,9 +12,8 @@
 
 ### 3. Модифицированная ассемблерная программа с комментариями: <br/>
 > * [Список переменных]
-> * [main_mod.s] <br/>
-> * [task_mod.s] <br/>
-> * [print_mod.s] <br/>
+> * [main_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/main.s) <br/>
+> * [task_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s) <br/>
 
 ### 4. Тестирование:
 > * [Ссылка]
