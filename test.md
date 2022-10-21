@@ -7,11 +7,12 @@
  > * С модификациями: <br/>
  > <img width="500" alt="test_1_not_mod" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_Console.png"> <br/>
  
-2. Тест 2 - А = [5, -10, 2, 0] <br/>
+2. Тест 2 - Random <br/>
  > * Без модификаций: <br/>
- > <img width="400" alt="test_2_not_mod" src=""> <br/>
+ > <img width="500" alt="test_2_not_mod" src=""> <br/>
  > * С модификациями: <br/>
- > <img width="400" alt="test_2_mod" src=""> <br/>
+ > <img width="500" alt="test_2_mod"src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_Random.png"> <br/>
+
 3. Тест 3 - некорректный ручной ввод length = 25 ( при length <= 20 по условию ) <br/>
  > * Без модификаций: <br/>
  > <img width="400" alt="test_3_not_mod" src=""> <br/>
