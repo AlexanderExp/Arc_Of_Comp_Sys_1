@@ -21,7 +21,7 @@
 
 4. Тест 4 - Некорректный ввод значения для переменной length (вводим 11, ограничение length: 1 <= length <= 10) <br/>
  > * Без модификаций: <br/>
- > <img width="500" alt="Assembler_no_mod_test_File" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_no_mod_test_File.png"> <br/>
+ > <img width="500" alt="Assembler_no_mod_test_incorrect" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_no_mod_test_incorrect.png"> <br/>
  > * С модификациями: <br/>
  > <img width="500" alt="Assembler_mod_test_file" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_file.png"> <br/>
 ----
