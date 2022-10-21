@@ -3,7 +3,7 @@
 ### Тесты:
 1. Тест 1 - Console <br/>
  > * Без модификаций: <br/>
- > <img width="500" alt=""> <br/>
+ > <img width="500" alt="![image](https://user-images.githubusercontent.com/95678672/197087282-1b64878c-eb13-4a8d-848f-0f2a780a8ef8.png)"> <br/>
  > * С модификациями: <br/>
  > <img width="500" alt="test_1_not_mod" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_Console.png"> <br/>
  
