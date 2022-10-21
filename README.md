@@ -16,7 +16,7 @@
 > * [task_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s) <br/>
 
 ### 4. Тестирование:
-> * [Ссылка]
+> * [Тесты](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/test.md)
 ---- 
 # 5 баллов:
 ### 1. Решение на C с передачей данных через параметры + локальные переменные: <br/>
