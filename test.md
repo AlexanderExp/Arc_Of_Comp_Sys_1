@@ -31,7 +31,7 @@
  > * <tp Без использования регистров вместо переменных: <br/>
  > <img width="500" alt="Assembler_no_mod_test_Console" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_no_mod_test_Console.png"> <br/>
  > * С использованием регистров вместо переменных: <br/>
- > <img width="500" alt="Assembler_mod_test_Console" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_mod_test_Console.png"> <br/>
+ > <img width="500" alt="Assembler_test_no_registers_Console" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Assembler_test_no_registers_Console.png"> <br/>
  
 2. Тест 2 - Random <br/>
  > * Без использования регистров вместо переменных: <br/>
