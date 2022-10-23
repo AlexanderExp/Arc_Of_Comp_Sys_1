@@ -59,3 +59,9 @@
 ----
 
 # 8 балла
+
+1. Тест 1 - Замер времени с модификациями кода и без них <br/>
+ > * Без модификаций: <br/>
+ > <img width="500" alt="unmodded_Assembler_timer" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/unmodded_Assembler_timer.png"> <br/>
+ > * С модификациями: <br/>
+ > <img width="500" alt="Modded_Assembler_timer" src="https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Tests/Modded_Assembler_timer.png"> <br/>
