@@ -1,3 +1,21 @@
+# вместо -4[rbp] используем r12d => стало быстрее и лучше
+# вместо -8[rbp] используем r12d => стало быстрее и лучше
+# вместо -12[rbp] используем r12d => стало быстрее и лучше
+# вместо -16[rbp] используем r12d => стало быстрее и лучше
+# вместо -20[rbp] используем r12d => стало быстрее и лучше
+# вместо -24[rbp] используем r12d => стало быстрее и лучше
+
+# загружаем input_option(-156[rbp]) в регистр r13d
+# загружаем length(-148[rbp]) в регистр r14d 
+
+# удалены макросы cdq, cdqe
+
+# task
+# вместо -4[rbp] используем r12d => стало быстрее и лучше
+# вместо -8[rbp] используем r12d => стало быстрее и лучше
+
+	
+	
 	.file	"main.c"
 	.intel_syntax noprefix
 	.text
@@ -264,8 +282,8 @@ main:
 	lea	rcx, -144[rbp] # Передаем массив B в task
 	lea	rax, -96[rbp] # Передаем массив А в task 
 	mov	rdi, rax
-	call	task@PLT
-	mov	DWORD PTR -36[rbp], eax
+	call	task@PLT # task(A, length, x, B)
+	mov	DWORD PTR -36[rbp], eax # lengthB = task(A, length, x, B) (Присваиваиваем lengthB результат выполнения функции task)
 	cmp	DWORD PTR -164[rbp], 2 # Сравниваем argc с 2
 	jne	.L22
 	lea	rsi, .LC11[rip]
