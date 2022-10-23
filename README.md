@@ -24,7 +24,30 @@
 > * [task_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s) <br/>
 
 ### 2. Ассемблерная программа с комментариями описывающие передачу параметров и перенос результата +  комментарии, описывающие связь между параметрами языка Си и регистрами (стеком): <br/>
-> * [Список переменных]
-> * [main_mod.s]<br/>
-> * [task_mod.s]<br/>
-> * [print_mod.s] <br/>
+> * [Список переменных](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D1%81%D1%82%D0%B5%D0%BA%D0%B5_%D0%BC%D0%BE%D0%B6%D0%B8%D1%84%D0%B8%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9.txt)
+> * [main_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/main.s) <br/>
+> * [task_mod.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s) <br/>
+----
+# 6 баллов: 
+###1. Код на Ассемблере с максимальным использованием регистров, комментариями, поясняющее использование регистров
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/main.s)
+> * [task.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s)
+###2. [Тесты](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/test.md)
+----
+# 7 баллов:
+###1. Код на Ассемблере с опцией работы с файлами и двумя единицами компиляции
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/main.s)
+> * [task.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Assembler_modified/task.s)
+###2. Код на С с опцией работы с файлами и двумя единицами компиляции
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/main.c)
+> * [task.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/task.c)
+###3. [Тесты](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/test.md)
+----
+# 7 баллов:
+###1. Код на Ассемблере с таймером и дополнительным циклом для обеспечения продолжительности работы программмы >1 секнды
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Modified_Assembler_timer/Modified_Assembler_timer%20(1).s)
+> * [task.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/Modified_Assembler_timer/Modified_Assembler_timer%20(2).s)
+###2. Код на С с таймером и дополнительным циклом для обеспечения продолжительности работы программмы >1 секнды
+> * [main.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/main.c)
+> * [task.s](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/%D0%A1_code/task.c)
+###3. [Тесты](https://github.com/AlexanderExp/Arc_Of_Comp_Sys_1/blob/main/test.md)
